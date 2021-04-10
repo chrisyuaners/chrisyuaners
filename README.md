@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Chris - a Software Engineer interested in full-stack development of web-based applications. :octocat:
+
+:exclamation: profile under construction :exclamation:
+
 <!--
 **chrisyuaners/chrisyuaners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
